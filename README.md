@@ -13,5 +13,6 @@ An LRU Cache stores key-value pairs with a limited capacity. When the cache exce
 - `LRUCache.java`: Implementation of the LRU Cache.
 ## Example Input
 <img width="360" alt="Screenshot 2025-06-03 at 12 41 10 AM" src="https://github.com/user-attachments/assets/7027234e-f70c-4d05-9842-7dc8a37f5592" />
+
 ## Output
 <img width="1512" alt="Screenshot 2025-06-02 at 10 19 41 PM" src="https://github.com/user-attachments/assets/a9187eed-f154-47c0-8e56-65d77a3bbea2" />
